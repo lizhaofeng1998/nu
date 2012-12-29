@@ -32,8 +32,7 @@ Legal
 
 Nu is copyrighted open-source software that is released under the Apache
 License, version 2.0.  For details on the license, see the LICENSE file.
-In its use to name a programming language, "Nu" is a trademark of Radtastical i
-Inc.
+In its use to name a programming language, "Nu" is a trademark of Radtastical Inc.
 
 System requirements
 -------
@@ -68,6 +67,9 @@ Author
 -------
 
 Tim Burks (tim@radtastical.com)
+
 Radtastical Inc.
+
 Palo Alto, California, USA
+
 http://www.radtastical.com
